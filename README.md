@@ -27,4 +27,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amayas29&show_icons=true&theme=nord&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Amayas29&custom_title=Wakatime+Stats+of+today)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Amayas29&custom_title=Wakatime+Stats+of+today&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
