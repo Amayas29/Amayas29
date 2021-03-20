@@ -6,6 +6,8 @@
 - 🌱 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
+**My discord**
+
 <img alt="discord tag" src='https://discord.c99.nl/widget/theme-2/640319226061520908.png' />
 
 ### Languages and Tools :
