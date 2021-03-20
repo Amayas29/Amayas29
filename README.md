@@ -26,3 +26,5 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amayas29&show_icons=true&theme=nord&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Amayas29&range=last_6_months)](https://github.com/anuraghazra/github-readme-stats)
