@@ -10,9 +10,6 @@
 
 <img alt="discord tag" src='https://discord.c99.nl/widget/theme-2/640319226061520908.png' />
 
-
-</br>
-
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amayas29&count_private=true&show_icons=true&theme=nord&custom_title=Amayas's+GitHub+Stats&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
