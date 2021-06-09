@@ -26,11 +26,7 @@
 
 ---
 
-<!--START_SECTION:waka-->
-
 <figure><embed src="https://wakatime.com/share/@Amayas29/3df00f58-f290-4e6b-89a4-fe479eb063f9.svg"></embed></figure>
-
-<!--END_SECTION:waka-->
 
 ---
 
