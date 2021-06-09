@@ -26,10 +26,6 @@
 
 ---
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
----
-
 <h3 align="center">My Github trophies</h3>
 
 
