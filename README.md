@@ -26,8 +26,8 @@
 
 ---
 
-<figure><embed src="https://wakatime.com/share/@Amayas29/3df00f58-f290-4e6b-89a4-fe479eb063f9.svg"></embed></figure>
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ---
 
 <h3 align="center">My Github trophies</h3>
